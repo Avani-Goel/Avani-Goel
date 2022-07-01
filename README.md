@@ -4,9 +4,11 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avani-goel&label=Profile%20views&color=0e75b6&style=flat" alt="avani-goel" /> </p>
-
+- 🤓 Currently learning Full Stack Development
+- ❄️ Currently studying Computer Science Engineering from University of Engineering & Management, Kolkata
+- 🚀 Love to talking about Research and Innovation!
+- 💪 Passionate about Competitive Coding
 - 📫 How to reach me **avanigoel07@gmail.com**
-
 - ⚡ Fun fact **I am an avid reader**
 
 <h3 align="left">Connect with me:</h3>
